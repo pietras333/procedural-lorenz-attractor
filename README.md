@@ -1,4 +1,5 @@
 # 🌀 Lorenz Attractor Visualizer
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2cd418b-2098-4cd0-b806-a124954ef51d" />
 
 An interactive **Lorenz attractor simulator** in Unity 🎮, designed to explore chaos, the butterfly effect, and velocity dynamics in a visually intuitive way.
 
